@@ -6,7 +6,7 @@ body {
 blockquote {
   margin: 18px;
   padding: 18px;
-  background-color: #000064;
+  background-color: #696969;
 }
 
 .date {
@@ -17,7 +17,7 @@ blockquote {
 #toc {
   margin: 8px;
   padding: 8px;
-  background-color: #000064;
+  background-color: #696969;
   width: fit-content
 }
 
@@ -28,11 +28,11 @@ blockquote {
 
 table {
   border-collapse: collapse;
-  background-color: #000000;
+  background-color: #696969;
 }
 
 td, th {
-  border: 1px solid #ffffff;
+  border: 1px solid #000000;
   text-align: left;
   padding: 10px;
 }
