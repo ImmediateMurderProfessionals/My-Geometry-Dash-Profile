@@ -1,5 +1,6 @@
 body {
   background-image: url("Background.png");
+  background-size: 320px 320px;
   font-family: "Noto Sans", "IBM Plex Sans", Verdana, sans-serif;
 }
 
