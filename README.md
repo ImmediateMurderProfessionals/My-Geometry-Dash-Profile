@@ -1,3 +1,3 @@
 My Geometry Dash profile!
 
-idk
+#FREEBOMBCRAFT
